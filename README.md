@@ -5,6 +5,8 @@ SOFTWARE ONLY RUNS ON SYSTEMS THAT SUPPORT MATLAB
 
 The goal of this project was to create a user friendly GUI for the digital equalizer where the user can move ten different sliders each representing a corresponding frequency.
 
+Report on:https://www.slideshare.net/slideshow/embed_code/key/e7J8dG4jvodggU
+
 HOW TO USE GRAPHIC EQUALIZER:
 
 0)Open the EqualizerUpdated427.m file and press F5 or hit the run button on the top.
