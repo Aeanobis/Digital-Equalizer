@@ -1,5 +1,7 @@
 # Digital Equalizer
 
+Built in my Junior year of Undergrad, 2015.
+
 **DISCLAIMER**
 SOFTWARE ONLY RUNS ON SYSTEMS THAT SUPPORT MATLAB
 
