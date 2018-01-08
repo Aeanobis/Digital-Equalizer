@@ -20,3 +20,4 @@ Note:Make sure the .wav file is in the same directory as the .m file of the equa
 
 4)Enjoy listening if you want to try different settings hit the stop button and change the sliders as needed then click play. (You do not need to hit stop if you have not loaded a file).
 
+![alt text](https://github.com/deliverant/Digital-Equalizer/blob/master/Img.png)
